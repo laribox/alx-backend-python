@@ -9,7 +9,7 @@ from utils import access_nested_map, get_json, memoize
 from unittest.mock import patch, Mockimport unittest
 
 
-class TestAccessNestedMap(unittest.TestCase)
+class TestAccessNestedMap(unittest.TestCase):
     """
     class that inherits from unittest.TestCase
     """
